@@ -38,7 +38,7 @@ export default function Home() {
     title: "Industrial / Waste Water Reuse",
     description:
       "Eco-friendly wastewater treatment and reuse solutions for industries.",
-    image: "/iwater.PNG",
+    image: "/iWater.PNG",
   },
   
   {
