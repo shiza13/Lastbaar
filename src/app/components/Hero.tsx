@@ -21,7 +21,7 @@ export default function Hero() {
 <SwiperSlide>
   <div className="relative w-full h-[500px]">
     <Image
-      src="/hs1.png"
+      src="/hs1.PNG"
       alt="Industrial & Commercial Ro Plants"
       fill
       priority
@@ -40,7 +40,7 @@ export default function Hero() {
 <SwiperSlide>
   <div className="relative w-full h-[500px]">
     <Image
-      src="/hs5.png"
+      src="/hs5.PNG"
       alt="Industrial Water Treatment"
       fill
       priority
@@ -58,7 +58,7 @@ export default function Hero() {
 <SwiperSlide>
   <div className="relative w-full h-[500px]">
     <Image
-      src="/hs3.png"
+      src="/hs3.PNG"
       alt="Sustainable & Green Future"
       fill
       priority
@@ -102,4 +102,5 @@ export default function Hero() {
       </div>
     </section>
   );
+
 }
